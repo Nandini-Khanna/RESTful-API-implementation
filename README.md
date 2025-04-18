@@ -44,14 +44,14 @@ This is a simple RESTful API project simulating basic functionality of a Quora-l
 
 Follow these steps to run the project locally:
 
-### 1. Clone the repository
+ 1. Clone the repository
 
 ```bash
 git clone https://github.com/Nandini-Khanna/RESTful-API-implementation.git
 cd RESTful-API-implementation
-### 2. Install dependencies
+ 2. Install dependencies
 npm install
-### 3. Run the application
+ 3. Run the application
 node index.js
 4. Open in browser
 [http://localhost:3000/posts](http://localhost:3000/posts)
