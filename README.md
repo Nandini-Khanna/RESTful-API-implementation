@@ -39,6 +39,13 @@ This is a simple RESTful API project simulating basic functionality of a Quora-l
 | PATCH  | /posts/:id           | Update post           |
 | DELETE | /posts/:id           | Delete post           |
 
+## 📸 Screenshot
+
+![App Screenshot](https://github.com/Nandini-Khanna/RESTful-API-implementation/blob/main/1.png?raw=true)
+![App Screenshot](https://github.com/Nandini-Khanna/RESTful-API-implementation/blob/main/2.png?raw=true)
+![App Screenshot](https://github.com/Nandini-Khanna/RESTful-API-implementation/blob/main/3.png?raw=true)
+![App Screenshot](https://github.com/Nandini-Khanna/RESTful-API-implementation/blob/main/4.png?raw=true)
+
 
 ## 🧑‍💻 Getting Started
 
@@ -46,7 +53,6 @@ Follow these steps to run the project locally:
 
  1. Clone the repository
 
-```bash
 git clone https://github.com/Nandini-Khanna/RESTful-API-implementation.git
 cd RESTful-API-implementation
  2. Install dependencies
